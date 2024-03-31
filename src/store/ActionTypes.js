@@ -1,0 +1,9 @@
+export const GET_PRODUCTS = "GET_PRODUCTS";
+
+export const ADD_TO_BASKET = "ADD_TO_BASKET";
+
+export const DELETE_FROM_BASKET = "DELETE_FROM_BASKET";
+
+export const DECREASE_QUANTITY = "DECREASE_QUANTITY";
+
+export const ADD_TO_FAVORITE = "ADD_TO_FAVORITE";
